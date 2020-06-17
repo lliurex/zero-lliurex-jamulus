@@ -1,0 +1,6 @@
+{
+	"type":"apt",
+	"pkg_list": [{"name":"jamulus","key_store":"zero-lliurex-jamulus"}],
+	"script":{"name":"/usr/share/zero-lliurex-jamulus/jamulus_script","remove":true},
+	"zomando": "zero-lliurex-jamulus"
+}

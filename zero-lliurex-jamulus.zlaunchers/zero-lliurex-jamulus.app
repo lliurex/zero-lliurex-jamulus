@@ -1,0 +1,13 @@
+Name=zero-lliurex-jamulus
+Name[es]=Jamulus server
+Name[ca_ES]=Jamulus server
+Comment=Live music stram server
+Comment[es]=Servidor para emitir musica en directo
+Comment[ca_ES]=Servidor per a emetre musica en directe
+Icon=zero-lliurex-jamulus
+Category=Softwre
+ScriptPath=zero-lliurex-jamulus.zmd
+Groups=sudo;admin;admins;teachers
+Using=pkexec
+Service=True
+Modal=True
