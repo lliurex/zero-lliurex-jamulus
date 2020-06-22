@@ -1,9 +1,11 @@
-Name=zero-lliurex-jamulus
+Name=Jamulus server
 Name[es]=Jamulus server
 Name[ca_ES]=Jamulus server
-Comment=Live music stram server
-Comment[es]=Servidor para emitir musica en directo
-Comment[ca_ES]=Servidor per a emetre musica en directe
+Name[qcv]=Jamulus server
+Comment=The Jamulus software enables musicians to perform real-time jam sessions over the internet. There is one server running the Jamulus server software which collects the audio data from each Jamulus client, mixes the audio data and sends the mix back to each client
+Comment[es]=Jamulus permite organizar una jam session a través de internet. Para ello basta con crear una sala en un servidor Jamulus que se encarga de sincronizar la musica entre todos los clientes conectados a la sala
+Comment[ca_ES]=El Jamulus permet organitzar una jam session mitjançant internet. Hi ha prou amb configurar una sala a un servidor Jamulus que s'encarregarà de sincronitzar la mùsica entre els clients conectats
+Comment[qcv]=El Jamulus permet organitzar una jam session mitjançant internet. Hi ha prou amb configurar una sala a un servidor Jamulus que s'encarregarà de sincronitzar la mùsica entre els clients conectats
 Icon=zero-lliurex-jamulus
 Category=Software
 ScriptPath=zero-lliurex-jamulus.zmd
