@@ -1,5 +1,11 @@
+zero-lliurex-jamulus (0.2.1) bionic; urgency=medium
+
+  * Fix package metadata
+
+ -- Juanma1980 <juanma1980@gmail.com>  Tue, 17 Nov 2020 08:04:14 +0100
+
 zero-lliurex-jamulus (0.2) bionic; urgency=medium
 
    Initial release.
 
- - Juanma1980 <juanma1980@gmail.com>  Wed, 10 Jun 2020 08:31:32 +0200
+ -- Juanma1980 <juanma1980@gmail.com>  Wed, 10 Jun 2020 08:31:32 +0200
